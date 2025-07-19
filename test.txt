@@ -1,5 +1,4 @@
-4
-100
-101
-102
-103
+3
+///home/kevin/logs/../pathconverter.py
+foo/bar/../baz
+logs/./2025///july
